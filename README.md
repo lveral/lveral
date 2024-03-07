@@ -8,4 +8,3 @@
 - CSS
 - Git
 - VisualStudioCode
-![CII Best Practices](https://img.shields.io/cii/:metric/:projectId)
