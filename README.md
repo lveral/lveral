@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Vera
-### I'm developer on low-code platform and I'm learning backend development.
+### I'm backend development.
 ### Languages ​​and tools
 - GO
 - JS
