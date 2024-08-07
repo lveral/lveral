@@ -34,5 +34,3 @@ I'm backend development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-//### :fire: My Stats :
-//[![GitHub Streak](https://streak-stats.demolab.com?user=lveral&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
