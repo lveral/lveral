@@ -13,7 +13,7 @@
 ### :woman_technologist: About Me :
 I'm frontend development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a development and contributing to frontend and backend for building CRM systems.
-- :zap: In my free time, I solve problems on CodeRun and take courses.
+- :zap: In my free time, I take frontend courses.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
