@@ -11,7 +11,7 @@
 
 
 ### :woman_technologist: About Me :
-I'm backend development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm frontend development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a development and contributing to frontend and backend for building CRM systems.
 - :zap: In my free time, I solve problems on CodeRun and take courses.
 ---
