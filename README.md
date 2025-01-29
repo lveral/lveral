@@ -17,7 +17,7 @@ I'm backend development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 ### :hammer_and_wrench: Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=red)
+![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
